@@ -1,0 +1,23 @@
+{
+  "name": "tiny-glob-cli",
+  "version": "0.0.1",
+  "description": "Just cli wrapper for tiny-glob",
+  "bin": "bin.cjs",
+  "repository": "git@github.com:erwinstone/tiny-glob-cli.git",
+  "author": "Erwin Stone <erwinstone@pm.me>",
+  "license": "MIT",
+  "keywords": [
+    "glob",
+    "cli",
+    "glob-cli",
+    "tiny-glob",
+    "tiny-glob-cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/erwinstone/tiny-glob-cli/issues"
+  },
+  "homepage": "https://github.com/erwinstone/tiny-glob-cli#readme",
+  "dependencies": {
+    "tiny-glob": "^0.2.9"
+  }
+}
